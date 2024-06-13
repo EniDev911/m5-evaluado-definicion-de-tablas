@@ -23,6 +23,9 @@ psql -U postgres --file=desafio.sql -W
 
 ![screenshot](screenshot.png)
 
-### DEMOSTRACIÓN EN VIVO 
+---
 
-[Ver en oneCompiler](https://onecompiler.com/embed/postgresql/42g3rs2nw?hideNewFileOption=true&hideNew=true&hideLanguageSelection=true&theme=dark&hideStdin=true&hideTitle=true&listenToEvents=true&codeChangeEvent=true)
+### JUPYTER NOTEBOOK EJECUTADO
+
+[![Postgres](https://img.shields.io/badge/jupyter-%23000F00.svg?style=for-the-badge&logo=jupyter&logoColor=orange)](queries-desafio.ipynb)
+
